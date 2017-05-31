@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Lib/mysql-connector-java-5.1.18.jar" sourcepath="C:/SoftWare/mysql-connector-java-5.0 (2).zip"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="Lib/HikariCP-2.4.7.jar"/>
+	<classpathentry kind="lib" path="Lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
